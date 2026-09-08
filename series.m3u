@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ser01" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000001.png" group-title="Series" plot="In a small port town, the fates of several families intertwine against a backdrop of long-held secrets." genre="Drama",Harborline
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser02" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000002.png" group-title="Series" plot="A lawyer inherits a country house and slowly uncovers the troubled history of its former owners." genre="Drama",The Fallow House
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser03" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000003.png" group-title="Series" plot="The daily life of a small-town courthouse, from routine cases to far more personal dilemmas." genre="Drama",North Bench
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser04" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000004.png" group-title="Series" plot="A team of investigators reopens old cold cases, determined to finally give them closure." genre="Crime",Case File 12
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser05" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000005.png" group-title="Series" plot="Two night-shift officers patrol a city that never truly sleeps." genre="Crime",Night Watch City
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser06" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000006.png" group-title="Series" plot="A forensic accountant unwittingly uncovers a network far larger than he imagined." genre="Crime",The Quiet Ledger
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser07" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000007.png" group-title="Series" plot="Four unlikely office coworkers try to survive an endless string of reorganizations." genre="Comedy",Desk Four
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser08" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000008.png" group-title="Series" plot="The quirky residents of one building keep crossing paths, avoiding each other, and reuniting anyway." genre="Comedy",Upstairs Neighbors
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser09" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000009.png" group-title="Series" plot="The crew of an isolated space outpost grapples with signals they can't explain." genre="Sci-Fi",Station Echo
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser10" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000010.png" group-title="Series" plot="In the near future, a group of scientists explores the fallout of a failed time-travel experiment." genre="Sci-Fi",The Drift
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser11" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000011.png" group-title="Series" plot="In a kingdom on the brink of war, a hidden heir must choose between her bloodline and her convictions." genre="Fantasy",Emberfall
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser12" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000012.png" group-title="Series" plot="A kingdom built on glass magic sees its balance threatened by a forgotten prophecy." genre="Fantasy",The Glass Kingdom
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser13" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000013.png" group-title="Series" plot="A documentary series exploring the planet's most remote ecosystems." genre="Documentary",Deep Currents
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser14" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000014.png" group-title="Series" plot="Each episode follows a city in transformation, told by the people who live there." genre="Documentary",World in Motion
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser15" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000015.png" group-title="Series" plot="A group of friends navigates first loves and first grown-up choices on a university campus." genre="Young Adult",Campus Nights
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser16" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000016.png" group-title="Series" plot="The eventful daily life of a group of high schoolers who seem to disagree on everything except what matters." genre="Young Adult",Locker 214
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser17" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000017.png" group-title="Series" plot="A business partner discovers her associate is hiding far more than a simple professional secret." genre="Thriller",Silent Partner
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="ser18" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000018.png" group-title="Series" plot="Three generations share one roof, with all the warmth, chaos, and rediscovery that comes with it." genre="Family",The Larkspur House
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8

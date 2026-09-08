@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ch01" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000001.png" group-title="News",Aurora News
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch01
+#EXTINF:-1 tvg-id="ch02" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000002.png" group-title="News",Horizon Daily
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch02
+#EXTINF:-1 tvg-id="ch03" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000003.png" group-title="News",Northline News
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch03
+#EXTINF:-1 tvg-id="ch04" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000004.png" group-title="Sports",Stadium One
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch04
+#EXTINF:-1 tvg-id="ch05" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000005.png" group-title="Sports",Velocity Sports
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch05
+#EXTINF:-1 tvg-id="ch06" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000006.png" group-title="Sports",Arena Live
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch06
+#EXTINF:-1 tvg-id="ch07" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000007.png" group-title="Movies Channel",Prime Cinema
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch07
+#EXTINF:-1 tvg-id="ch08" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000008.png" group-title="Movies Channel",Nightreel
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch08
+#EXTINF:-1 tvg-id="ch09" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000009.png" group-title="Kids",Kidzverse
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch09
+#EXTINF:-1 tvg-id="ch10" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000010.png" group-title="Kids",Toon Harbor
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch10
+#EXTINF:-1 tvg-id="ch11" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000011.png" group-title="Music",Rhythm Wave
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch11
+#EXTINF:-1 tvg-id="ch12" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000012.png" group-title="Music",Beatstream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch12
+#EXTINF:-1 tvg-id="ch13" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000013.png" group-title="Entertainment",Spotlight TV
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch13
+#EXTINF:-1 tvg-id="ch14" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000014.png" group-title="Entertainment",Vivid TV
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch14
+#EXTINF:-1 tvg-id="ch15" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000015.png" group-title="Entertainment",Metro Live
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch15
+#EXTINF:-1 tvg-id="ch16" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000016.png" group-title="Documentary",Horizon Docs
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch16
+#EXTINF:-1 tvg-id="ch17" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000017.png" group-title="Documentary",Curious Planet
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch17
+#EXTINF:-1 tvg-id="ch18" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000018.png" group-title="Lifestyle",Home & Table
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch18
+#EXTINF:-1 tvg-id="ch19" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000019.png" group-title="Lifestyle",Wanderlust TV
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch19
+#EXTINF:-1 tvg-id="ch20" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000020.png" group-title="General",Central One
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch20
+#EXTINF:-1 tvg-id="ch21" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000021.png" group-title="General",Skyline TV
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8?ch=ch21
