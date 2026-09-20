@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="ser01" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000001.png" group-title="Series" plot="In a small port town, the fates of several families intertwine against a backdrop of long-held secrets." genre="Drama" series-id="1" season="1" episode="1",Harborline
-https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+https://file-examples.com/storage/fedfd364ab6ab04159b709d/2017/04/file_example_MP4_1280_10MG.mp4
 #EXTINF:-1 tvg-id="ser02" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000002.png" group-title="Series" plot="A lawyer inherits a country house and slowly uncovers the troubled history of its former owners." genre="Drama",The Fallow House
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 #EXTINF:-1 tvg-id="ser03" tvg-logo="https://raw.githubusercontent.com/d32solutions/d32iptv_test/main/0000000003.png" group-title="Series" plot="The daily life of a small-town courthouse, from routine cases to far more personal dilemmas." genre="Drama",North Bench
